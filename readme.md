@@ -1,4 +1,4 @@
-# Golden Dragon – Chinese Restaurant Website
+# Chinese Hub – Chinese Restaurant Website
 
 ## About the Project
 
