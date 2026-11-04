@@ -2,7 +2,7 @@
 
 ## About the Project
 
-Golden Dragon is a Chinese restaurant website developed as part of a Web Development assignment. The website showcases Chinese cuisine, restaurant information, a food menu and contact details through an attractive and responsive design.
+Chinese Hub is a Chinese restaurant website developed as part of a Web Development assignment. The website showcases Chinese cuisine, restaurant information, a food menu and contact details through an attractive and responsive design.
 
 ## Features
 
@@ -52,4 +52,4 @@ Golden-Dragon/
 
 ---
 
-*Golden Dragon – Bringing the Taste of China to Your Table.*
+*Chinese Hub– Bringing the Taste of China to Your Table.*
