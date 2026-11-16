@@ -115,6 +115,6 @@ if (footer) {
 
     if (copyright) {
         copyright.textContent =
-            `© ${new Date().getFullYear()} Golden Dragon. All Rights Reserved.`;
+            `© ${new Date().getFullYear()} Chinese Hub. All Rights Reserved.`;
     }
 }
